@@ -1,1 +1,1 @@
-## StartPage for browser
+just a simple startpage for my browser
