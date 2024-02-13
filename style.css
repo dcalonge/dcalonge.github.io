@@ -13,18 +13,10 @@ html {
 body {
   display: flex;
   color: #dcc6a0;
-  background: #000000;
+  background: #2e3440;
   margin-right: 9em;
   padding: 1em;
   font-family: Font;
-}
-
-img {
-  height: 600px;
-  width: 350px;
-  margin-right: 2em;
-  border-radius: 5px;
-  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 nav {
@@ -46,7 +38,7 @@ h1 {
 h2 {
   font-size: 1.2em;
   font-weight: 600;
-  color: #a56951;
+  color: #81a1c1;
   grid-column: 1/-1;
   text-align: center;
   margin-bottom: 2.3em;
