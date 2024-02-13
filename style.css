@@ -37,7 +37,7 @@ h1 {
 h2 {
   font-size: 1.2em;
   font-weight: 600;
-  color: #81a1c1;
+  color: #88c0d0;
   grid-column: 1/-1;
   text-align: center;
   margin-bottom: 2.3em;
@@ -66,12 +66,12 @@ li:first-child {
 }
 
 a {
-  color: #81a1c1;
+  color: #88c0d0;
   font-size: 1.1em;
   text-decoration: none;
 }
 
 a:hover {
-  color: #88c0d0;
+  color: #8fbcbb;
   font-style: italic;
 }
